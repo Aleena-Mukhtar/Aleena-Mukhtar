@@ -1,7 +1,10 @@
+<h1 align="center">Hi there! 👋 I'm Aleena</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F75C03&center=true&vCenter=true&width=590&lines=Full-Stack+Engineer+%7C+Turning+ideas+into+products" alt="Full-Stack Engineer | Turning ideas into products" />
+</p>
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleena+%F0%9F%91%8B;Full-Stack+Engineer+%7C+3%2B+years;Node.js+%7C+TypeScript+%7C+AI+Integrations;I+build+scalable+SaaS+%26+AI+voice+systems" alt="Typing animation" />
-
 <p>
   <a href="https://www.linkedin.com/in/aleenamukhtar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,7 +13,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 ## 🚀 About Me
@@ -44,27 +46,16 @@
   <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square" />
 </p>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aleena-Mukhtar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleena-Mukhtar&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Aleena-Mukhtar&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## ✨ Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Aleena-Mukhtar/Repolens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleena-Mukhtar&repo=Repolens&theme=tokyonight&hide_border=true" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aleena-Mukhtar/Aleena-Mukhtar/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aleena-Mukhtar/Aleena-Mukhtar/output/github-snake.svg" />
+</picture>
 
 </div>
 
